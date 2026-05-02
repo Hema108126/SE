@@ -23,4 +23,20 @@ I am learning Git and GitHub version control.
 Hema KeerthiPati
 
 ## Updates
+
 ## Updates
+
+
+
+This is a personal GitHub repository maintained as part of 
+
+the Software Engineering course experiment.
+
+
+
+A team-based project workflow is being followed where 
+
+multiple modules are being developed and tracked using Git 
+
+and GitHub for version control.
+
